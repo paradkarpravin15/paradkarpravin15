@@ -58,7 +58,7 @@
 
 ### 📊 Contribution Overview:
 - 🔄 22+ contributions in the past year  
-- 📂 Active repositories: `Power BI`, `Python`, `Excel`, and `PHP`  
+- 📂 Active repositories: `Power BI`, `Python`, `Excel`, and `SQL`  
 - ✅ Recently committed to:  
   - `Zomato-Python-Project`  
   - `Amazon-Global-Superstore-Dashboard`  
