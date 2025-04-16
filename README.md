@@ -4,34 +4,35 @@
 ---
 
 ### 🔍 About Me:
-- 🎓 B.Com in Computer Applications | G H Raisoni Institute of Engineering and Technology, Nagpur  
-- 💻 Currently working as a **Data Analyst Intern** at Unified Mentor Pvt. Ltd.  
-- 🔭 Working on a mini capstone project: **Rental Patterns & Film Popularity Analysis (MavenMovies DB)**  
-- 🌱 Learning SQL, Python, Excel, and Power BI for **data analytics & data science**  
-- 📈 Passionate about uncovering insights from data and visualizing them in meaningful ways  
-- 🎸 Fun fact: I enjoy **gardening** and **learning guitar** in my free time!  
+- 🔭 Currently working on: Data analysis projects & Seeking a career in data
+- 🌱 Learning: SQL, Excel, Power BI, Python with ML
+- 💬 Ask me about: Data tools & my learning journey
+- 📫 Reach me at: pravindparadkar2003@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love gardening & analyzing data!
 
 ---
 
-### 📊 GitHub Stats:
+### 📌 Featured Projects:
+- 🛒 [Amazon-Global-Superstore-Dashboard](https://github.com/paradkarpravin15/Amazon-Global-Superstore-Dashboard)  
+  _Power BI dashboard showcasing profit, sales & shipping insights._
+
+- 🍽️ [Zomato-Python-Project](https://github.com/paradkarpravin15/Zomato-Python-Project)  
+  _Exploratory Data Analysis using Python & Google Colab._
+
+- 💐 [FNP-Excel-Project](https://github.com/paradkarpravin15/FNP-Excel-Project)  
+  _Excel dashboard analyzing Ferns and Petals sales data._
+
+- 🎓 [Academic-Event-Manager](https://github.com/paradkarpravin15/Academic-Event-Manager)  
+  _Academic management system built with PHP._
+
+---
+
+### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Pravin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paradkarpravin15&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradkarpravin15&layout=compact&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:pravindparadkar2003@gmail.com)
-
----
-
-### 💻 Coding Profiles:
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
 
 ---
 
@@ -49,14 +50,24 @@
 
 ---
 
-### 📫 How to reach me:
-- Email: **pravindparadkar2003@gmail.com**
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravin-paradkar/)  
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:pravindparadkar2003@gmail.com)
 
 ---
 
-### 😄 Pronouns:  
-**He/Him**
+### 📊 Contribution Overview:
+- 🔄 22+ contributions in the past year  
+- 📂 Active repositories: `Power BI`, `Python`, `Excel`, and `PHP`  
+- ✅ Recently committed to:  
+  - `Zomato-Python-Project`  
+  - `Amazon-Global-Superstore-Dashboard`  
+  - `FNP-Excel-Project`
+
+---
+
+### 📣 Let's Collaborate!
+I'm open to projects, internships, and collabs in the field of data analytics. Let's turn data into decisions!
 
 ---
 
