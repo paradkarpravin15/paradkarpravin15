@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-F37626?style=for-the-badge&logo=VS-Code&logoColor=white"/>
 </p>
 
 ---
@@ -67,7 +68,7 @@
 ---
 
 ### 📣 Let's Collaborate!
-I'm open to projects, internships, and collabs in the field of data analytics. Let's turn data into decisions!
+I'm open to projects, internships, and collaborations in data analytics. Let's turn data into decisions!
 
 ---
 
