@@ -1,61 +1,76 @@
-<h1 align="center">Hi 👋, I'm Pravin Paradkar</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Python • Excel • Power BI</h3>
+<h1 align="center">👋 Hi, I'm Pravin Paradkar</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analyst</h3>
 
----
-
-### 🔍 About Me:
-- 🔭 Currently working on: Data analysis projects & seeking a career in data
-- 🌱 Learning: SQL, Excel, Power BI, Python with ML
-- 💬 Ask me about: Data tools & my learning journey
-- 📫 Reach me at: pravindparadkar2003@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love gardening & analyzing data!
-
----
-
-### 📌 Featured Projects:
-- 🛒 [Amazon-Global-Superstore-Dashboard](https://github.com/paradkarpravin15/Amazon-Global-Superstore-Dashboard)  
-  _📊 Power BI dashboard showcasing profit, sales & shipping insights._
-
-- 🍽️ [Zomato-Python-Project](https://github.com/paradkarpravin15/Zomato-Python-Project)  
-  _📈 Exploratory Data Analysis using Python & Google Colab._
-
-- 💐 [FNP-Excel-Project](https://github.com/paradkarpravin15/FNP-Excel-Project)  
-  _📉 Excel dashboard analyzing Ferns and Petals sales data._
-
-- 🎓 [Academic-Event-Manager](https://github.com/paradkarpravin15/Academic-Event-Manager)  
-  _🧑‍🏫 Academic management system built with PHP._
-
----
-
-### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paradkarpravin15&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradkarpravin15&layout=compact&theme=radical" />
+  <em>Turning raw data into real decisions with Python, SQL, Power BI, and Excel.</em>
 </p>
 
 ---
 
-### 🧰 Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+### 🧭 Who Am I?
+
+🎓 A **Commerce + Computer Applications** graduate on a mission to solve real-world problems through **data-driven decisions**.
+
+🔍 I specialize in **data wrangling**, **visual storytelling**, and **extracting actionable insights** from messy data.
+
+🌱 Currently expanding my skills in **Machine Learning** and **Advanced Analytics**.
+
+💡 I believe in learning by doing, and my GitHub reflects my journey through the **world of data**.
+
+---
+
+### 🔬 My Data Science Journey
+
+
+skills = ['SQL', 'Python', 'Power BI', 'Excel', 'Statistics']
+
+tools = ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Jupyter', 'Colab']
+
+goals = ['Build ML models', 'Tell data stories', 'Solve business problems']
+
+---
+
+### 🚀 Featured Projects & Case Studies
+
+📊 **[Amazon Global Superstore Dashboard](https://github.com/paradkarpravin15/Amazon-Global-Superstore-Dashboard)**
+*Power BI dashboard highlighting regional sales trends, profit centers, and delivery performance.*
+
+🔍 **[Zomato EDA using Python](https://github.com/paradkarpravin15/Zomato-Python-Project)**
+*In-depth data exploration of Zomato data using `Pandas`, `Seaborn`, and `Matplotlib`.*
+
+📉 **[FNP Excel Dashboard](https://github.com/paradkarpravin15/FNP-Excel-Project)**
+*Business insights on seasonal product performance and revenue trends using Excel pivoting & charts.*
+
+---
+
+### 📊 Tech & Toolbelt
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-2B303A?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me:
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paradkarpravin15&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradkarpravin15&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Let’s Connect
+
 <p>
   <a href="https://www.linkedin.com/in/pravinparadkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -70,19 +85,19 @@
 
 ---
 
-### 📊 Contribution Overview:
-- 🔄 22+ contributions in the past year  
-- 📂 Active repositories: `Power BI`, `Python`, `Excel`, and `SQL`  
-- ✅ Recently committed to:
-  - [`Zomato-Python-Project`](https://github.com/paradkarpravin15/Zomato-Python-Project)
-  - [`Amazon-Global-Superstore-Dashboard`](https://github.com/paradkarpravin15/Amazon-Global-Superstore-Dashboard)
-  - [`FNP-Excel-Project`](https://github.com/paradkarpravin15/FNP-Excel-Project)
+### 🔄 Recent Contributions
+
+* ✅ `Zomato-Python-Project` – Exploratory data analysis & visual insights
+* 📊 `Amazon-Global-Superstore-Dashboard` – Region-wise sales & KPIs
+* 📈 `FNP-Excel-Project` – Revenue trends & product insights
 
 ---
 
-### 📣 Let's Collaborate!
-I'm open to data analytics projects, internships, and collaborations.  
-📌 _Let's turn raw data into real insights and decisions!_
+### 📣 Open to Collaborations
+
+If you're working on a **data-driven project**, need a **data storyteller**, or just want to chat about Python, BI tools, or career journeys—let's connect!
+I’m looking for **job**, **real-world collaborations**, and **learning experiences**.
 
 ---
 
+> *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
