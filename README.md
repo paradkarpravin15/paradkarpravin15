@@ -22,24 +22,11 @@
 ### 🔬 My Data Science Journey
 
 
-skills = ['SQL', 'Python', 'Power BI', 'Excel', 'Statistics']
+skills = ['SQL', 'Python', 'Power BI', 'Excel', 'Statistics', 'Machine Learning']
 
 tools = ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Jupyter', 'Colab']
 
 goals = ['Build ML models', 'Tell data stories', 'Solve business problems']
-
----
-
-### 🚀 Featured Projects & Case Studies
-
-📊 **[Amazon Global Superstore Dashboard](https://github.com/paradkarpravin15/Amazon-Global-Superstore-Dashboard)**
-*Power BI dashboard highlighting regional sales trends, profit centers, and delivery performance.*
-
-🔍 **[Zomato EDA using Python](https://github.com/paradkarpravin15/Zomato-Python-Project)**
-*In-depth data exploration of Zomato data using `Pandas`, `Seaborn`, and `Matplotlib`.*
-
-📉 **[FNP Excel Dashboard](https://github.com/paradkarpravin15/FNP-Excel-Project)**
-*Business insights on seasonal product performance and revenue trends using Excel pivoting & charts.*
 
 ---
 
@@ -62,9 +49,9 @@ goals = ['Build ML models', 'Tell data stories', 'Solve business problems']
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paradkarpravin15&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradkarpravin15&layout=compact&theme=tokyonight" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=paradkarpravin15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradkarpravin15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> 
 </p>
 
 ---
@@ -82,14 +69,6 @@ goals = ['Build ML models', 'Tell data stories', 'Solve business problems']
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🔄 Recent Contributions
-
-* ✅ `Zomato-Python-Project` – Exploratory data analysis & visual insights
-* 📊 `Amazon-Global-Superstore-Dashboard` – Region-wise sales & KPIs
-* 📈 `FNP-Excel-Project` – Revenue trends & product insights
 
 ---
 
