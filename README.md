@@ -19,7 +19,7 @@
 
 ---
 
-### 🔬 My Data Science Journey
+### 🔬 My Data Journey
 
 
 skills = ['SQL', 'Python', 'Power BI', 'Excel', 'Statistics', 'Machine Learning']
