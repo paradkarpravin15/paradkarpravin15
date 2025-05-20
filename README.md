@@ -24,7 +24,7 @@
 
 skills = ['SQL', 'Python', 'Power BI', 'Excel', 'Statistics', 'Machine Learning']
 
-tools = ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Jupyter', 'Colab']
+tools = ['Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'MySQL', 'VS Code', 'Google Colab']
 
 goals = ['Build ML models', 'Tell data stories', 'Solve business problems']
 
