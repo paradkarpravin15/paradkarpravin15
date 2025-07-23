@@ -50,7 +50,7 @@ goals = ['Build ML models', 'Tell data stories', 'Solve business problems']
 ### 📈 GitHub Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=paradkarpravin15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=paradkarpravin15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradkarpravin15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" /> 
 </p>
 
